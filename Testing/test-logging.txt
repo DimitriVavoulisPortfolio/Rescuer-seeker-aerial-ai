@@ -1,0 +1,30 @@
+PS C:\Users\dimit> & C:/Users/dimit/AppData/Local/Microsoft/WindowsApps/python3.9.exe c:/Github-uploading/Rescuer-seeker-aerial-ai/Testing/test-script.py
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+Model loaded successfully from c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\best.pt
+Ultralytics 8.3.15 🚀 Python-3.9.13 torch-2.4.1+cu121 CUDA:0 (NVIDIA GeForce RTX 2070 Super, 8192MiB)
+YOLO11m summary (fused): 303 layers, 20,032,345 parameters, 0 gradients, 67.7 GFLOPs
+val: Scanning C:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\Natural Disater.v14-v2.yolov11\test\labels.cache... 522 images, 332 backgrounds, 0 corrupt: 100%|██████████| 522/522 [00:00<?,  
+WARNING ⚠️ Box and segment counts should be equal, but got len(segments) = 81, len(boxes) = 764. To resolve this only boxes will be used and all segments will be removed. To avoid this please sup
+ply either a detect or segment dataset, not a detect-segment mixed dataset.
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 33/33 [00:06<00:00,  4.84it/s]
+                   all        522        764      0.751      0.586      0.702      0.459
+                 House        138        422      0.776      0.536      0.672      0.499
+                People         41        112      0.813       0.67      0.784      0.375
+               Vehicle         79        230      0.662      0.554       0.65      0.504
+Speed: 0.3ms preprocess, 10.4ms inference, 0.0ms loss, 0.6ms postprocess per image
+Results saved to c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\test_results\test_predictions
+Test completed. Results saved in c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\test_results\test_predictions
+
+Test Results Summary:
+mAP50: 0.702
+mAP50-95: 0.459
+Error during validation: unsupported format string passed to numpy.ndarray.__format__
+PS C:\Users\dimit> 

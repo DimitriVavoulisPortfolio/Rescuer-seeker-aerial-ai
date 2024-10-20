@@ -1,0 +1,8 @@
+PS C:\Users\dimit> & C:/Users/dimit/AppData/Local/Microsoft/WindowsApps/python3.9.exe c:/Github-uploading/Rescuer-seeker-aerial-ai/Testing/single-image-test.py
+WARNING ⚠️ Python>=3.10 is required, but Python==3.9.13 is currently installed 
+Model loaded successfully from c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\best.pt
+
+image 1/1 c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\maxresdefault.jpg: 384x640 7 Peoples, 1 Vehicle, 45.9ms
+Speed: 2.0ms preprocess, 45.9ms inference, 85.5ms postprocess per image at shape (1, 3, 384, 640)
+Processed image saved to c:\Github-uploading\Rescuer-seeker-aerial-ai\Testing\test_image_result.jpg
+PS C:\Users\dimit> 
