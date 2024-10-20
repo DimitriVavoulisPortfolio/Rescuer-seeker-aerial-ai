@@ -1,5 +1,6 @@
 # Rescuer-seeker: AI-Powered Aerial Search for Rapid Rescue Operations
 
+Click for video
 [![Watch the video](https://img.youtube.com/vi/XaHIW4iETJg/maxresdefault.jpg)](https://www.youtube.com/embed/XaHIW4iETJg)
 
 ## Project Overview
