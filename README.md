@@ -1,5 +1,7 @@
 # Rescuer-seeker: AI-Powered Aerial Search for Rapid Rescue Operations
 
+[![Watch the video](https://img.youtube.com/vi/XaHIW4iETJg/maxresdefault.jpg)](https://www.youtube.com/embed/XaHIW4iETJg)
+
 ## Project Overview
 
 Rescuer-seeker is a cutting-edge application designed to revolutionize aerial search and rescue operations in disaster scenarios with live aerial drone detection. Utilizing the YOLOv11m architecture, this project aims to rapidly detect and localize critical elements - Houses, People, and Vehicles - from aerial imagery, providing invaluable real-time intelligence to rescue teams, and ultimately, save lives.
